@@ -1,0 +1,15 @@
+C:\Users\Admin\c#\yet-to-be-named-game-rewrite\bin\Debug\net7.0\yet-to-be-named-game-rewrite.exe
+C:\Users\Admin\c#\yet-to-be-named-game-rewrite\bin\Debug\net7.0\yet-to-be-named-game-rewrite.deps.json
+C:\Users\Admin\c#\yet-to-be-named-game-rewrite\bin\Debug\net7.0\yet-to-be-named-game-rewrite.runtimeconfig.json
+C:\Users\Admin\c#\yet-to-be-named-game-rewrite\bin\Debug\net7.0\yet-to-be-named-game-rewrite.dll
+C:\Users\Admin\c#\yet-to-be-named-game-rewrite\bin\Debug\net7.0\yet-to-be-named-game-rewrite.pdb
+C:\Users\Admin\c#\yet-to-be-named-game-rewrite\obj\Debug\net7.0\yet-to-be-named-game-rewrite.csproj.AssemblyReference.cache
+C:\Users\Admin\c#\yet-to-be-named-game-rewrite\obj\Debug\net7.0\yet-to-be-named-game-rewrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\c#\yet-to-be-named-game-rewrite\obj\Debug\net7.0\yet-to-be-named-game-rewrite.AssemblyInfoInputs.cache
+C:\Users\Admin\c#\yet-to-be-named-game-rewrite\obj\Debug\net7.0\yet-to-be-named-game-rewrite.AssemblyInfo.cs
+C:\Users\Admin\c#\yet-to-be-named-game-rewrite\obj\Debug\net7.0\yet-to-be-named-game-rewrite.csproj.CoreCompileInputs.cache
+C:\Users\Admin\c#\yet-to-be-named-game-rewrite\obj\Debug\net7.0\yet-to-be-named-game-rewrite.dll
+C:\Users\Admin\c#\yet-to-be-named-game-rewrite\obj\Debug\net7.0\refint\yet-to-be-named-game-rewrite.dll
+C:\Users\Admin\c#\yet-to-be-named-game-rewrite\obj\Debug\net7.0\yet-to-be-named-game-rewrite.pdb
+C:\Users\Admin\c#\yet-to-be-named-game-rewrite\obj\Debug\net7.0\yet-to-be-named-game-rewrite.genruntimeconfig.cache
+C:\Users\Admin\c#\yet-to-be-named-game-rewrite\obj\Debug\net7.0\ref\yet-to-be-named-game-rewrite.dll

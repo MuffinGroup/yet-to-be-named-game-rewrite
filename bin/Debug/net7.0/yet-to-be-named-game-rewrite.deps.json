@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "yet-to-be-named-game-rewrite/1.0.0": {
+        "runtime": {
+          "yet-to-be-named-game-rewrite.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "yet-to-be-named-game-rewrite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
